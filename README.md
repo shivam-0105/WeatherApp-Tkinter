@@ -76,9 +76,14 @@ In this Weather App, we used API from [openweatherapp](https://home.openweatherm
                     o	Corresponding Weather icon.
     6.	The Data Analysis of weather shown by the Application:
             •	Graph of 7-Days current temperature, min/max temperature, humidity, pressure.
+## Images
+![img1](https://user-images.githubusercontent.com/70219870/126772868-b86f8e13-45e9-4394-890b-482bc67ba99e.png)
+![img2](https://user-images.githubusercontent.com/70219870/126772891-bcc4682e-101b-4836-b3c2-7616c017428a.png)
+![img3](https://user-images.githubusercontent.com/70219870/126772905-b7932ce7-eb8c-4f78-b174-28cde4bddd59.png)
+![img4](https://user-images.githubusercontent.com/70219870/126772913-0be8736f-3124-42ab-b1dd-30321a0fb490.png)
 
 
-## Functionalities Used:
+## Contributors
 1. 19BCE142 - Neelkumar Kunjadiya
 2. 19BCE147 - Smit Pambhar
 3. 19BCE150 - Shivam Panchal
