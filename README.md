@@ -86,7 +86,7 @@ In this Weather App, we used API from [openweatherapp](https://home.openweatherm
 ## Contributors
 1. [19BCE150 - Shivam Panchal](https://github.com/shivam-0105)
 2. [19BCE147 - Smit Pambhar](https://github.com/spambhar)
-3. 19BCE142 - Neelkumar Kunjadiya 
+3. [19BCE142 - Neelkumar Kunjadiya](https://github.com/Neel-Kunjadiya)
 
 
 I hope you enjoy the app
